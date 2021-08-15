@@ -1,21 +1,22 @@
-Ввод с клавиатуры:
+Keyboard input:
 
-Вариант 1:
+- Option 1:
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-
 String name = reader.readLine();
 String sAge = reader.readLine();
 int nAge = Integer.parseInt(sAge);
 
 
-Вариант 2:
+- Option 2:
 
 import java.utul.Scanner;
 
 Scanner sc = new Scanner(System.in);
 String name = sc.nextLine();
 int age = sc.nextInt();
+
+---------------------------------------------------
