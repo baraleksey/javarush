@@ -9,3 +9,5 @@ buffering - буферизация
 throws - выбрасывает
 Exception - исключение
 instantiation - реализация
+utility - полезность
+
