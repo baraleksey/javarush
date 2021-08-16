@@ -13,3 +13,6 @@ Exception - исключение
 instantiation - реализация
 utility - полезность
 Release - релиз
+overflow - переполнение
+notice - уведомление
+take up space - занимать место
