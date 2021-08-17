@@ -5,7 +5,7 @@ remote - удаленный
 fork - вилка
 branch - ветка
 tracked - отслеживаются
-commit - снимок
+commit (snapshot) - снимок
 extends - расширяет
 buffering - буферизация 
 throws - выбрасывает
@@ -16,3 +16,10 @@ Release - релиз
 overflow - переполнение
 notice - уведомление
 take up space - занимать место
+survey - опрос
+break - сломать
+continue - продолжать
+expression - выражение
+statement - утверждение
+termination - прекращение
+increment - приращение
