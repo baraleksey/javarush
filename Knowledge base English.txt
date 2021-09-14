@@ -1,4 +1,4 @@
-Файл с репозитория
+﻿Файл с репозитория
 
 Stream - поток
 remote - удаленный
@@ -23,3 +23,4 @@ expression - выражение
 statement - утверждение
 termination - прекращение
 increment - приращение
+instance - экземпляр
